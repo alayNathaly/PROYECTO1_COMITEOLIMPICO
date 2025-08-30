@@ -2,7 +2,7 @@
 Desarrolla una aplicación de consola que permita al Comité Olímpico Guatemalteco registrar y analizar el rendimiento de sus atletas de alto nivel.
 
 <p align="center">
-<img width="169" height="514" alt="Diagrama_Proyecto1" src="https://github.com/user-attachments/assets/c6b4a792-62a0-480e-95cd-e4919fde762a" />
+<img width="169" height="514" alt="Diagrama_Proyecto1" src="https://github.com/user-attachments/assets/a43670f7-ff7c-4b72-89ce-38d35ccd2686" />
 </p>
 
 ```java
